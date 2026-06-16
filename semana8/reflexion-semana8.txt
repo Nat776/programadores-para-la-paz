@@ -1,0 +1,17 @@
+La seguridad digital es importante porque protege la información
+de los usuarios dentro de las plataformas tecnológicas.
+
+Las comunidades comparten datos que pueden ser sensibles.
+
+Aplicar buenas prácticas evita robos de información
+y accesos no autorizados.
+
+Los servidores necesitan configuraciones seguras para funcionar.
+
+El uso de contraseñas fuertes ayuda a proteger cuentas.
+
+También es importante mantener los sistemas actualizados.
+
+Una plataforma segura genera confianza en sus usuarios.
+
+Por eso la seguridad debe ser parte del desarrollo tecnológico.

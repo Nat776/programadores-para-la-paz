@@ -1,0 +1,15 @@
+Comando: uname -a
+
+Este comando muestra información completa del sistema Linux,
+incluyendo la versión del kernel, arquitectura del equipo
+y datos del sistema operativo.
+
+
+Comando: whoami
+
+Este comando muestra el usuario actualmente conectado.
+
+
+Estos comandos son útiles al administrar servidores porque
+permiten conocer el entorno donde se ejecutan las aplicaciones,
+identificar usuarios y revisar configuraciones del sistema.
