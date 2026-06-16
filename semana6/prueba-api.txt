@@ -1,0 +1,21 @@
+Prueba realizada con POST:
+
+URL:
+http://localhost:3000/registro
+
+
+JSON enviado:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+
+Respuesta recibida:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

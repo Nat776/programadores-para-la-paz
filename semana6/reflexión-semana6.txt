@@ -1,0 +1,18 @@
+Las plataformas tecnológicas necesitan recibir información estructurada
+para poder procesarla correctamente.
+
+Cuando los ciudadanos envían reportes mediante sistemas digitales,
+la información puede almacenarse y analizarse fácilmente.
+
+El uso de JSON permite que diferentes aplicaciones puedan comunicarse.
+
+Además, req.body permite que los servidores reciban datos enviados
+por usuarios mediante peticiones POST.
+
+Esto facilita la creación de sistemas donde la comunidad participa.
+
+Los datos organizados ayudan a tomar mejores decisiones.
+
+También permiten automatizar procesos y mejorar los servicios.
+
+Por eso es importante manejar correctamente la información enviada.

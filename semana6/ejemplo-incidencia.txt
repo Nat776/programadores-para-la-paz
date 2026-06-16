@@ -1,0 +1,21 @@
+Petición POST:
+
+URL:
+http://localhost:3000/incidencia
+
+
+JSON enviado:
+
+{
+  "tipo": "Alumbrado público",
+  "descripcion": "Una lámpara del parque no funciona desde hace varios días."
+}
+
+
+Respuesta esperada:
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Alumbrado público",
+  "descripcion": "Una lámpara del parque no funciona desde hace varios días."
+}
