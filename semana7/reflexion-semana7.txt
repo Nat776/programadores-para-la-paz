@@ -1,0 +1,18 @@
+
+Las plataformas tecnológicas permiten que las comunidades
+puedan comunicar problemas de manera organizada.
+
+Registrar reportes ayuda a identificar necesidades reales.
+
+Cuando la información se almacena correctamente puede ser
+consultada y analizada posteriormente.
+
+Las APIs facilitan la comunicación entre usuarios y sistemas.
+
+El uso de GET permite consultar información existente.
+
+El uso de POST permite agregar nuevos registros.
+
+Esto mejora la comunicación entre ciudadanos y entidades.
+
+Además ayuda a crear soluciones tecnológicas más eficientes.

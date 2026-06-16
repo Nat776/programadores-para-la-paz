@@ -1,0 +1,46 @@
+Prueba realizada con POST:
+
+URL:
+http://localhost:3000/reportes
+
+
+JSON enviado:
+
+{
+ "tipo": "Infraestructura",
+ "descripcion": "Daño en alumbrado público"
+}
+
+
+Respuesta:
+
+{
+ "mensaje": "Reporte registrado",
+ "reporte": {
+   "id": 1,
+   "tipo": "Infraestructura",
+   "descripcion": "Daño en alumbrado público"
+ }
+}
+
+
+Luego se probó GET:
+
+URL:
+http://localhost:3000/reportes
+
+
+Resultado:
+
+[
+ {
+   "id":1,
+   "tipo":"Infraestructura",
+   "descripcion":"Daño en alumbrado público"
+ }
+]
+
+
+El servidor consulta el array en memoria y devuelve
+todos los reportes almacenados mientras la aplicación
+permanezca encendida.
