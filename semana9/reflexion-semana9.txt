@@ -1,0 +1,15 @@
+Las plataformas comunitarias necesitan servidores estables
+porque muchas personas pueden utilizarlas al mismo tiempo.
+
+Un servidor seguro permite proteger información importante.
+
+La estabilidad evita interrupciones del servicio.
+
+Los logs ayudan a identificar errores rápidamente.
+
+Además permiten conocer qué ocurre dentro del sistema.
+
+Una correcta administración mejora la experiencia del usuario.
+
+Los servidores son fundamentales para que una plataforma
+digital pueda funcionar continuamente y de forma confiable.

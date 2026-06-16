@@ -1,0 +1,27 @@
+
+Al ejecutar:
+
+node server.js
+
+
+El servidor inicia la aplicación Node.js usando Express.
+
+En la terminal aparece:
+
+Servidor ejecutándose en puerto 3000
+
+
+Esto indica que el servidor está esperando solicitudes.
+
+
+Al ingresar a:
+
+http://localhost:3000/estado
+
+
+El servidor responde con un objeto JSON indicando
+que el servicio está funcionando correctamente.
+
+
+La ruta /estado permite verificar el estado actual
+de la aplicación.
