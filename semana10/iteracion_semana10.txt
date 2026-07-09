@@ -1,0 +1,13 @@
+ITERACIÓN 1
+
+Las dos primeras tareas que realizaría son registrar una incidencia y enviar una notificación en Telegram cuando se cree un nuevo reporte.
+
+Estas tareas son las más importantes porque permiten comenzar a recopilar información y mantener informado al equipo sobre las nuevas 
+incidencias registradas.
+
+Definición de terminado:
+
+- La funcionalidad cumple correctamente con su objetivo.
+- Fue probada y funciona sin errores.
+- El código quedó registrado y respaldado en Git mediante un commit.
+
