@@ -1,0 +1,15 @@
+Entidad: Causa
+- id: identificador único de la causa.
+- titulo: nombre corto de la causa.
+- descripcion: explicación de la causa.
+- fecha: fecha en que se creó la causa.
+
+Entidad: Apoyo
+- id: identificador único del apoyo.
+- causa_id: relación con la causa apoyada.
+- nombre: nombre de la persona que apoya.
+- fecha: fecha en que se registró el apoyo.
+
+Explicación:
+Causa guarda los datos básicos de cada petición o solicitud comunitaria.
+Apoyo registra cada firma o apoyo dado a una causa y está vinculado a la causa correspondiente.
